@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "proffiliadur"
+version = "0.1.0"
+description = "Readability and CEFR-level analysis for Welsh and English text"
+requires-python = ">=3.11"
+dependencies = [
+    "regex==2026.9.10",
+    "requests==2.34.2",
+    "pandas==3.0.6",
+    "numpy==2.4.6",
+    "nltk==3.10.3",
+    "scikit-learn==1.9.1",
+    "transformers==5.17.0",
+    "accelerate==1.15.0",
+    "torch==2.14.0",
+    "conllu==6.0.0",
+]
+
+[tool.setuptools.packages.find]
+include = ["proffiliadur*"]
+
+[tool.setuptools.package-data]
+proffiliadur = [
+    "data/*.csv",
+    "data/stopwords/*.txt",
+    "data/models/*.pkl",
+    "data/vocab/*.csv",
+]
