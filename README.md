@@ -3,8 +3,10 @@
 Readability and CEFR-level (Common European Framework of Reference for
 Languages) analysis for Welsh and English text.
 
-This is the analysis library described in [paper citation - TODO once
-available]. For the interactive web tool built on top of this library, see
+This is the analysis library described in Gutiérrez-Rolón et al. (2026),
+"Proffiliadur: Welsh Language Text Profiling Toolkit" (see
+[Citation](#citation)). For the interactive web tool built on top of
+this library, see
 [proffiliadur-webapp](https://github.com/cardiffnlp/proffiliadur-webapp).
 
 ## Installation
@@ -60,4 +62,33 @@ attempting a network download.
 
 If you use this library, please cite:
 
-[TODO: add citation once available]
+Nicolás Gutiérrez-Rolón, Jonathan Davies, Tomos Williams, Dawn Knight,
+and Fernando Alva-Manchego. 2026. Proffiliadur: Welsh Language Text
+Profiling Toolkit. In Proceedings of the Fifteenth Language Resources
+and Evaluation Conference, pages 1129-1142, Palma de Mallorca, Spain.
+ELRA Language Resource Association.
+
+```bibtex
+@inproceedings{gutierrezrolon-etal-2026-proffiliadur,
+    title = "Proffiliadur: {W}elsh Language Text Profiling Toolkit",
+    author = "Guti{\'e}rrez-Rol{\'o}n, Nicol{\'a}s  and
+      Davies, Jonathan  and
+      Williams, Tomos  and
+      Knight, Dawn  and
+      Alva-Manchego, Fernando",
+    editor = "Piperidis, Stelios  and
+      Bel, N{\'u}ria  and
+      van den Heuvel, Henk  and
+      Ide, Nancy  and
+      Krek, Simon  and
+      Toral, Antonio",
+    booktitle = "Proceedings of the Fifteenth Language Resources and Evaluation Conference",
+    month = may,
+    year = "2026",
+    address = "Palma de Mallorca, Spain",
+    publisher = "ELRA Language Resource Association",
+    url = "https://aclanthology.org/2026.lrec-1.88/",
+    doi = "10.63317/5c6yawn79s5h",
+    pages = "1129--1142"
+}
+```
