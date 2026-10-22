@@ -10,6 +10,9 @@ fi
 
 echo "✅ Python 3.11 found"
 
+# Resolve paths relative to this script, so it works from any directory
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
 # Check Docker is installed and running - needed for Welsh POS tagging
 # (see proffiliadur/pos_tagger.py, which calls into this container via
 # `docker exec` rather than starting a fresh container per call)
@@ -46,7 +49,8 @@ else
     echo "✅ CyTag service container created and started"
 fi
 
-pip install -e .
+# python3 -m pip so the package goes into the same Python 3.11 checked above
+python3 -m pip install -e "$SCRIPT_DIR"
 echo "✅ Dependencies installed"
 
 # Pre-download NLTK data and the CEFR model so analysis never depends on
@@ -60,9 +64,8 @@ nltk.download('averaged_perceptron_tagger_eng')
 "
 echo "✅ NLTK data downloaded"
 
-python3 -c "
-from transformers import AutoTokenizer, AutoModelForSequenceClassification
-AutoTokenizer.from_pretrained('cardiffnlp/WelshCEFR-BritLLM')
-AutoModelForSequenceClassification.from_pretrained('cardiffnlp/WelshCEFR-BritLLM', dtype='float16')
-"
+# Importing classify downloads exactly the model and revision it loads
+# (including any PROFFILIADUR_CEFR_MODEL override). HF_HUB_OFFLINE=0 so
+# this still downloads if offline mode is already set in the environment.
+HF_HUB_OFFLINE=0 python3 -c "import proffiliadur.classify"
 echo "✅ CEFR model downloaded"

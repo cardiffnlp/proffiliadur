@@ -34,20 +34,43 @@ read_features = readability_data["features"]
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
 
-#MODEL_NAME = "cardiffnlp/WelshCEFR-BritLLM"
-MODEL_NAME = "cardiffnlp/WelshCEFR-EuroBert"
+# EuroBERT-210M is the default CEFR model: slightly less accurate than
+# BritLLM-3B (weighted F1 0.78 vs 0.83 in the CEFR-Cymraeg paper,
+# https://aclanthology.org/2026.lrec-1.279/) but ~12x less compute and
+# ~1 GB of RAM instead of ~5 GB, so it runs in well under a second per
+# text on a small CPU-only server.
+# Set PROFFILIADUR_CEFR_MODEL (and optionally PROFFILIADUR_CEFR_REVISION)
+# to use another model, e.g. cardiffnlp/WelshCEFR-BritLLM - note that
+# needs ~10 GB of RAM in float32. Any model must use the same 4-label
+# order (A1, A2, B1, B2) that classify() maps below.
+DEFAULT_MODEL_NAME = "cardiffnlp/WelshCEFR-EuroBert"
+# Pinned so a push to the Hub repo can't silently change predictions.
+DEFAULT_MODEL_REVISION = "56a734b7a11e139bcf21ff0ddb4636da4aa19c46"
+
+MODEL_NAME = os.getenv("PROFFILIADUR_CEFR_MODEL") or DEFAULT_MODEL_NAME
+MODEL_REVISION = os.getenv("PROFFILIADUR_CEFR_REVISION") or (
+    DEFAULT_MODEL_REVISION if MODEL_NAME == DEFAULT_MODEL_NAME else "main"
+)
 
 # This model is expected to be pre-provisioned by setup.sh. In production,
 # set HF_HUB_OFFLINE=1 (see .env.example) so a server restart never
 # depends on network access - from_pretrained() then fails fast with a
 # clear error instead of silently downloading if the cache is missing.
-tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
+#
+# No trust_remote_code: transformers has EuroBERT built in, and the
+# custom modeling code in the Hub repo targets transformers 4.x and fails
+# to load on the 5.x pinned in pyproject.toml.
+tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, revision=MODEL_REVISION)
 
 device = "cpu"
 
+# float32, not float16: most server CPUs have no native float16 support,
+# so half precision falls back to a much slower path (EuroBERT was ~12x
+# slower in float16 even on an Apple M1, which does support it).
 cefr_model = AutoModelForSequenceClassification.from_pretrained(
     MODEL_NAME,
-    dtype="float16"
+    revision=MODEL_REVISION,
+    dtype="float32"
 )
 
 tokenizer.pad_token = tokenizer.eos_token

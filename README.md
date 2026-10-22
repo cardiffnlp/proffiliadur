@@ -12,10 +12,10 @@ this library, see
 ## Installation
 
 ```
-pip install git+https://github.com/cardiffnlp/proffiliadur.git@v0.1.0
+pip install git+https://github.com/cardiffnlp/proffiliadur.git@v0.2.0
 ```
 
-(replace `v0.1.0` with the tag you want; omit `@v0.1.0` to track the
+(replace `v0.2.0` with the tag you want; omit `@v0.2.0` to track the
 default branch)
 
 For local development:
@@ -36,7 +36,8 @@ analysis - it also depends on:
   calls into via `docker exec`.
 - **Network access to `lindat.mff.cuni.cz`**, for Welsh and English
   syntax analysis (the public UDPipe service).
-- The **CEFR transformer model** (`cardiffnlp/WelshCEFR-BritLLM`) and
+- The **CEFR transformer model** (`cardiffnlp/WelshCEFR-EuroBert` by
+  default - see [Choosing the CEFR model](#choosing-the-cefr-model)) and
   **NLTK data** (`punkt_tab`, `stopwords`, `averaged_perceptron_tagger_eng`),
   both pre-downloaded by `setup.sh` so a later call never depends on
   network access.
@@ -57,6 +58,24 @@ results_en = readability_analysis_english("...")  # English
 Set `HF_HUB_OFFLINE=1` once the CEFR model has been downloaded once, so
 model loading fails fast on a missing cache instead of silently
 attempting a network download.
+
+## Choosing the CEFR model
+
+`classify()` uses `cardiffnlp/WelshCEFR-EuroBert` (EuroBERT-210M) by
+default, pinned to a fixed revision. It needs ~1 GB of RAM and takes
+well under a second per text on CPU. `cardiffnlp/WelshCEFR-BritLLM`
+(BritLLM-3B) is more accurate (weighted F1 0.83 vs 0.78, see
+[the CEFR-Cymraeg paper](https://aclanthology.org/2026.lrec-1.279/))
+but needs ~10 GB of RAM and is far slower on CPU.
+
+To use a different model, set these environment variables before
+`proffiliadur.classify` is imported (and before running `setup.sh`, so
+it downloads the right one):
+
+- `PROFFILIADUR_CEFR_MODEL` - Hugging Face model name. The model must
+  output 4 labels in the order A1, A2, B1, B2.
+- `PROFFILIADUR_CEFR_REVISION` - optional commit, branch or tag to pin
+  (defaults to `main` for any model other than the default).
 
 ## Citation
 
