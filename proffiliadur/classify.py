@@ -34,7 +34,8 @@ read_features = readability_data["features"]
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
 
-MODEL_NAME = "cardiffnlp/WelshCEFR-BritLLM"
+#MODEL_NAME = "cardiffnlp/WelshCEFR-BritLLM"
+MODEL_NAME = "cardiffnlp/WelshCEFR-EuroBert"
 
 # This model is expected to be pre-provisioned by setup.sh. In production,
 # set HF_HUB_OFFLINE=1 (see .env.example) so a server restart never
