@@ -1,0 +1,4016 @@
+[
+  {
+    "word": "Aber",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Absennol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Acen",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Achub",
+    "variants": [],
+    "collocations": ["Bad achub","Cwch achub"]
+  },
+  {
+    "word": "Adain",
+    "variants": ["Adenydd"],
+    "collocations": []
+  },
+  {
+    "word": "Addysg",
+    "variants": [],
+    "collocations": ["Addysg bellach","Addysg Uwch","Addysg coleg"]
+  },
+  {
+    "word": "Adeg",
+    "variants": [
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Adloniant",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Adran",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Adrodd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Aelod",
+    "variants": [],
+    "collocations": ["Aelod Cynulliad","Aelod Seneddol"]
+  },
+  {
+    "word": "Addurniadau",
+    "variants": [
+    ],
+    "collocations": ["Addurniadau Nadolig"]
+  },
+  {
+    "word": "Afalau",
+    "variants": [],
+    "collocations": ["Tarten Afalau"]
+  },
+  {
+    "word": "Afiach",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Afiechyd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Agored",
+    "variants": [
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Agoriad",
+    "variants": [],
+    "collocations": ["Agoriad swyddogol", "Agoriad yr arddangosfa"]
+  },
+  {
+    "word": "Agwedd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ail",
+    "variants": [],
+    "collocations": ["Ail law","Ail iaith"]
+  },
+  {
+    "word": "Ailadrodd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ailgylchu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Alcohol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Allanfa",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Allt",
+    "variants": ["Rhiw","Tyle"],
+    "collocations": []
+  },
+  {
+    "word": "Amaethyddiaeth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Amaethyddol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Amgylch",
+    "variants": [],
+    "collocations": ["O amgylch"]
+  },
+  {
+    "word": "Amgylchedd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Amlwg",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Amrywiaeth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Amseru",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Amynedd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Anadlu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Anaf",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Anafu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Anferth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Angenrheidiol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Anghywir",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Anhapus",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Anhygoel",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Annibendod",
+    "variants": ["Llanast"],
+    "collocations": []
+  },
+  {
+    "word": "Annifyr",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Antur",
+    "variants": [
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Apwyntiad",
+    "variants": [
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Ar",
+    "variants": [],
+    "collocations": ["Ar ddi-hun","Ar y pryd"]
+  },
+  {
+    "word": "Arafu",
+    "variants": [
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Archebu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Arddangos",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Arddangosfa",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Arfordir",
+    "variants": [],
+    "collocations": ["Llwybr yr arfordir"]
+  },
+  {
+    "word": "Argraffu",
+    "variants": [
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Argyfwng",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Arlunydd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Arogl",
+    "variants": ["Oglau","Gwynt"],
+    "collocations": []
+  },
+  {
+    "word": "Arogli",
+    "variants": ["Ogla","Gwynto"],
+    "collocations": []
+  },
+  {
+    "word": "Arth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Artist",
+    "variants": [
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Arwain",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Arweinydd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Asgwrn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Atgoffa",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Atgof",
+    "variants": [
+      "Atgofion"
+    ],
+    "collocations": ["Atgofion melys","Hel atgofion"]
+  },
+  {
+    "word": "Awdurdod",
+    "variants": [
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Awyr",
+    "variants": [],
+    "collocations": ["awyr las"]
+  },
+  {
+    "word": "Baner",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Basged",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Bat",
+    "variants": [
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Baw",
+    "variants": [],
+    "collocations": ["Baw ci"]
+  },
+  {
+    "word": "Bedd",
+    "variants": [],
+    "collocations": ["Carreg bedd","Carreg fedd"]
+  },
+  {
+    "word": "Benthyca",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Berf",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Beudy",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Blaen",
+    "variants": [
+    ],
+    "collocations": ["Ac yn y blaen","Ar y blaen"]
+  },
+  {
+    "word": "Blanced",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Blas",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Blasu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Blêr",
+    "variants": [
+      "Anniben"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Blinder",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Blinedig",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Blino",
+    "variants": [],
+    "collocations": ["Blino ar"]
+  },
+  {
+    "word": "Blwch",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Bodlon",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Bol",
+    "variants": ["Bola"],
+    "collocations": ["Llond bol","Botwm bol"]
+  },
+  {
+    "word": "Bòs",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Brenin",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Breuddwyd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Breuddwydio",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Briciau",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Bricsen",
+    "variants": [
+      "Brics"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Bro",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Bron",
+    "variants": [
+    ],
+    "collocations": ["Llaeth y fron"]
+  },
+  {
+    "word": "Brwnt",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Bryn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Brysio",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Budr",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Busneslyd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Bwlch",
+    "variants": [
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Bwrdd",
+    "variants": [],
+    "collocations": ["Gosod y bwrdd","Gosod bwrdd","Bwrdd croeso"]
+  },
+  {
+    "word": "Bwyd",
+    "variants": [],
+    "collocations": ["Bwyd parod","Banc bwyd","Chwant bwyd"]
+  },
+  {
+    "word": "Bwyta",
+    "variants": [],
+    "collocations": ["Bwyta fel mochyn"]
+  },
+  {
+    "word": "Bychan",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Bys",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Bysiau",
+    "variants": [
+      "Bysus"
+    ],
+    "collocations": ["Gorsaf bysiau","Gorsaf bysys"]
+  },
+  {
+    "word": "Bywiog",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cadair",
+    "variants": [
+    ],
+    "collocations": ["Cadair freichiau","Cadair esmwyth"]
+  },
+  {
+    "word": "Cadw",
+    "variants": [
+      "Cadw trefn",
+      "Cadw dyddiadur",
+      "Cadw at"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Caead",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cael",
+    "variants": [
+      "Cael gwared",
+      "Cael blas ar"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Caets",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cais",
+    "variants": [
+    ],
+    "collocations": ["Cais am swydd", "Gwneud Cais", "Ffurflen gais"]
+  },
+  {
+    "word": "Calendr",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Call",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Calan",
+    "variants": [
+    ],
+    "collocations": ["Calan Gaeaf","Calan Mai"]
+  },
+  {
+    "word": "Cam",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Camera",
+    "variants": [
+    ],
+    "collocations": ["Camera cyflymder"]
+  },
+  {
+    "word": "Campio",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Caneuon",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cangen",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Caniatâd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cannwyll",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Canrif",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cân",
+    "variants": [
+    ],
+    "collocations": ["Cân i Gymru"]
+  },
+  {
+    "word": "Canu",
+    "variants": [
+    ],
+    "collocations": ["Canu offeryn","Canu piano","canu delyn"]
+  },
+  {
+    "word": "Cap",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cariadus",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Carreg",
+    "variants": [
+      "Cerrig"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Casgliad",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cau",
+    "variants": [
+    ],
+    "collocations": ["Cau dy ben"]
+  },
+  {
+    "word": "Cawell",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cawl",
+    "variants": [
+    ],
+    "collocations": ["Gwneud cawl o"]
+  },
+  {
+    "word": "Cawr",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Caws",
+    "variants": [
+    ],
+    "collocations": ["caws gafr"]
+  },
+  {
+    "word": "Cefnogaeth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cefnogi",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ceiliog",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Celf",
+    "variants": [
+    ],
+    "collocations": ["Celf a chrefft"]
+  },
+  {
+    "word": "Celwydd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cemeg",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cenedlaethol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cennin",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cerbyd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cerdd",
+    "variants": [
+      "Miwsig",
+      "Barddoniaeth"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Cerddorfa",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cês",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Chwedl",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Chwyn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Chwynnu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Chwyrnu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cicio",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cist",
+    "variants": [
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Ciw",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Claddu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Claf",
+    "variants": [
+      "Cleifion"
+    ],
+    "collocations": ["Adran cleifion"]
+  },
+  {
+    "word": "Clasurol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Clebran",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Clecs",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Clêr",
+    "variants": [
+      "Pryfed"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Clo",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cloch",
+    "variants": [
+    ],
+    "collocations": ["Canu cloch"]
+  },
+  {
+    "word": "Clogwyn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Clonc",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cludo",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Clustog",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Clwtyn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Clyfar",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Clymu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Clyw",
+    "variants": [
+    ],
+    "collocations": ["Trwm ei glyw","Trwm ei chlyw","O fewn clyw"]
+  },
+  {
+    "word": "Cnau",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cochi",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Codi",
+    "variants": [
+    ],
+    "collocations": ["codi llaw","codi ofn","codi'r ffôn"]
+  },
+  {
+    "word": "Cof",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cofnodion",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Coler",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Colled",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Colur",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Comedi",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Copa",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Côr",
+    "variants": [
+    ],
+    "collocations": ["Côr meibion"]
+  },
+  {
+    "word": "Cot",
+    "variants": [
+      "Côt"
+    ],
+    "collocations": ["Côt o baent"]
+  },
+  {
+    "word": "Corfforol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Corwynt",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cosi",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Costus",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cotwm",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cownter",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Crand",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Creadigol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Crefft",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Creision",
+    "variants": [
+    ],
+    "collocations": ["creision ŷd"]
+  },
+  {
+    "word": "Creu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Creulon",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cribo",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Criw",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Croesawgar",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Croesawu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Croesffordd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Crud",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Crwn",
+    "variants": [
+      "Gron"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Crwydro",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cryfder",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cul",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Curo",
+    "variants": [
+    ],
+    "collocations": ["Curo dwylo","Curo ar y drws","curo'r tîm"]
+  },
+  {
+    "word": "Cwblhau",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cwlwm",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cwrs",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cwrt",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cwsg",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cwt",
+    "variants": [
+    ],
+    "collocations": ["cwt ieir","cwt gwair"]
+  },
+  {
+    "word": "Cwympo",
+    "variants": [
+      "Ffraeo"
+    ],
+    "collocations": ["cwympo mas"]
+  },
+  {
+    "word": "Cydio",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cydweithio",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cydweithwyr",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cyfaill",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cyfarch",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cyfarth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cyfarwyddiadau",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cyfathrebu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cyfeillion",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cyfrif",
+    "variants": [
+    ],
+    "collocations": ["cyfrif banc"]
+  },
+  {
+    "word": "Cyffordd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cyfforddus",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cyffro",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cyffuriau",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cyffwrdd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cyflog",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cyflogi",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cyflymder",
+    "variants": [
+    ],
+    "collocations": ["Camera cyflymder"]
+  },
+  {
+    "word": "Cyfnod",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cyfoes",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cyfoeth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cyfraith",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cyfres",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cyfrinach",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cylch",
+    "variants": [
+    ],
+    "collocations": ["Cylch chwarae"]
+  },
+  {
+    "word": "Cylchgrawn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cymar",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cymdeithas",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cymdeithasol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cymeriad",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cymhleth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cymorth",
+    "variants": [
+    ],
+    "collocations": ["Cymorth cyntaf"]
+  },
+  {
+    "word": "Cymuned",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cymwynas",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cymysg",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cymysgu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cynffon",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cynhesu",
+    "variants": [
+      "Twymo"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Cynllunio",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cynnal",
+    "variants": [
+    ],
+    "collocations": ["Cynnal a chadw","Cynnal sgwrs"]
+  },
+  {
+    "word": "Cynnig",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cyntedd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cynulleidfa",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cysgod",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cystadleuaeth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cystadlu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cyswllt",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cytundeb",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cyw",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Cywir",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Dadl",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Dadlau",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Daear",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Dagrau",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Dal",
+    "variants": [
+    ],
+    "collocations": ["Dal ati"]
+  },
+  {
+    "word": "Dannedd",
+    "variants": [
+    ],
+    "collocations": ["Dannedd dodi","Dannedd gosod"]
+  },
+  {
+    "word": "Darlith",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Darlun",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Datblygu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Dathliad",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Dawn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Dealltwriaeth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Deallus",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Defnydd",
+    "variants": [
+      "defnyddio"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Deiet",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Deilen",
+    "variants": [
+      "Dail"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Derbyn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Diamynedd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Dieithr",
+    "variants": [
+      "Dierth",
+      "Diarth"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Diffyg",
+    "variants": [
+    ],
+    "collocations": ["Diffyg amser","Diffyg cwsg","Diffyg hyder"]
+  },
+  {
+    "word": "Diflastod",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Difrifol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Difyr",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Digalon",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Digwyddiad",
+    "variants": [
+      "Digwyddiadau"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Dim",
+    "variants": [
+    ],
+    "collocations": ["Pob dim","I'r dim"]
+  },
+  {
+    "word": "Dioddef",
+    "variants": [
+    ],
+    "collocations": ["dioddef o"]
+  },
+  {
+    "word": "Diogel",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Diogelwch",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Diogi",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Diolch",
+    "variants": [
+    ],
+    "collocations": ["diolch o galon"]
+  },
+  {
+    "word": "Diolchgar",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Disgo",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Disgwyl",
+    "variants": [
+    ],
+    "collocations": ["Disgwyl bws","Disgwyl babi"]
+  },
+  {
+    "word": "Disgyn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Distawrwydd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Diweddar",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Diweithdra",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Diwydiant",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Diwylliant",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Dod",
+    "variants": [
+    ],
+    "collocations": ["dod i ben","dod o hyd i"]
+  },
+  {
+    "word": "Drewi",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Dril",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Dros",
+    "variants": [
+    ],
+    "collocations": ["dros dro"]
+  },
+  {
+    "word": "Drosodd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Drych",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Dur",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Duw",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Dwbl",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Dwfn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Dwl",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Dwyieithog",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Dwyn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Dwyrain",
+    "variants": [
+    ],
+    "collocations": ["dwyrain canol"]
+  },
+  {
+    "word": "Dwys",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Dychrynllyd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Dyddiad",
+    "variants": [
+    ],
+    "collocations": ["Dyddiad cau"]
+  },
+  {
+    "word": "Dyddiol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Dyfodol",
+    "variants": [
+    ],
+    "collocations": ["dyfodol agos"]
+  },
+  {
+    "word": "Dyled",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Dymuno",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Eglur",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Eglwys",
+    "variants": [
+    ],
+    "collocations": ["eglwys gadeiriol"]
+  },
+  {
+    "word": "Egni",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Eidalaidd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Eirlaw",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Eisiau",
+    "variants": [
+    ],
+    "collocations": ["gweld eisiau","gweld ei eisiau"]
+  },
+  {
+    "word": "Electronig",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Emosiwn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Emyn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Enfawr",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Enfys",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Esmwyth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ewyn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ffa",
+    "variants": [
+    ],
+    "collocations": ["Ffa coffi"]
+  },
+  {
+    "word": "Ffafr",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ffaith",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ffansi",
+    "variants": [
+    ],
+    "collocations": ["Gwisg ffansi"]
+  },
+  {
+    "word": "Ffarwelio",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ffasiwn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Fferyllydd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ffin",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ffiseg",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ffisig",
+    "variants": [
+      "Moddion"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Ffitrwydd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Fflam",
+    "variants": [
+      "Fflamau"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Ffon",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Fforest",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ffraeo",
+    "variants": [
+      "Cwympo mas"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Ffres",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ffrynt",
+    "variants": [
+    ],
+    "collocations": ["drws ffrynt","Ffrynt oer","Ffrynt cynnes"]
+  },
+  {
+    "word": "Ffurfiol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ffyrdd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ffyrnig",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ficer",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gafael",
+    "variants": [
+      "Cadw",
+      "Colli"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Gafr",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Galluog",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Galw",
+    "variants": [
+    ],
+    "collocations": ["galw heibio","Galw draw"]
+  },
+  {
+    "word": "Garw",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Genedigaeth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Glan",
+    "variants": [
+      "Glannau"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Gliniadur",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Glo",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gofal",
+    "variants": [
+    ],
+    "collocations": ["cartref gofal"]
+  },
+  {
+    "word": "Gofalwr",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gofod",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gollwng",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Golygu",
+    "variants": [
+      "ystyr"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Gorchymyn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gorffwys",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gorwel",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gosod",
+    "variants": [
+    ],
+    "collocations": ["ar osod","Dannedd gosod",""]
+  },
+  {
+    "word": "Gradd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gramadeg",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Grawnfwyd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Grawnwin",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Grefi",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwaed",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwael",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwaelod",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwahanol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwasg",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwasgu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwastad",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwastraff",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwau",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwawr",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwefus",
+    "variants": [
+      "Gwefusau"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Gweiddi",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gweini",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gweinidog",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gweinyddol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gweithgar",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gweithgaredd",
+    "variants": [
+      "Gweithgareddau"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Gweithle",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwên",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwenu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwerin",
+    "variants": [
+    ],
+    "collocations": ["Canu gwerin","cân werin","clwb gwerin"]
+  },
+  {
+    "word": "Gwerth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwerthfawr",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwibdaith",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwirionedd",
+    "variants": [
+    ],
+    "collocations": ["Mewn gwirionedd"]
+  },
+  {
+    "word": "Gwlân",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwledig",
+    "variants": [
+    ],
+    "collocations": ["Parc gwledig"]
+  },
+  {
+    "word": "Gwleidyddiaeth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwlychu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwm",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwrach",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwrthod",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwthio",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwylltio",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gwynto",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Gyrfa",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Haearn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Hael",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Hallt",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Hamddenol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Hanesyddol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Hanfodol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Hapusrwydd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Hardd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Heini",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Hel",
+    "variants": [
+      "Casglu"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Hen",
+    "variants": [
+    ],
+    "collocations": ["Hen ffasiwn"]
+  },
+  {
+    "word": "Henaint",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Heneiddio",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Henoed",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Heulwen",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Hiraeth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Hobi",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Hoffus",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Hollol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Hwyliau",
+    "variants": [
+    ],
+    "collocations": ["Hwyliau da","Hwyliau drwg"]
+  },
+  {
+    "word": "Hwyliog",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Hwylus",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Hwyr",
+    "variants": [
+    ],
+    "collocations": ["Gyda'r hwyr"]
+  },
+  {
+    "word": "Hyd",
+    "variants": [
+      "pellter"
+    ],
+    "collocations": ["Hyd a lled"]
+  },
+  {
+    "word": "Hyder",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Hyderus",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Hyfforddiant",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Iachus",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Iechyd",
+    "variants": [
+    ],
+    "collocations": ["iechyd a diogelwch","iechyd meddwl"]
+  },
+  {
+    "word": "Ieir",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Iesu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ieuenctid",
+    "variants": [
+    ],
+    "collocations": ["Clwb ieuenctid"]
+  },
+  {
+    "word": "Inc",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "India",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Injan",
+    "variants": [
+    ],
+    "collocations": ["Injan dân"]
+  },
+  {
+    "word": "Jyngl",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Lapio",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Lawnt",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Letys",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Lladd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llafur",
+    "variants": [
+    ],
+    "collocations": ["Y Blaid Llafur"]
+  },
+  {
+    "word": "Llais",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llanast",
+    "variants": [
+      "Annibendod"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Llanc",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llanw",
+    "variants": [
+    ],
+    "collocations": ["Llanw a thrai"]
+  },
+  {
+    "word": "Llawdriniaeth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llawr",
+    "variants": [
+      "Lawr",
+      "gwaelod"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Lle",
+    "variants": [
+    ],
+    "collocations": ["Lle tân"]
+  },
+  {
+    "word": "Llechi",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Lled",
+    "variants": [
+    ],
+    "collocations": ["Hyd a lled"]
+  },
+  {
+    "word": "Lledr",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llenwi",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Lleoliad",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llethr",
+    "variants": [
+    ],
+    "collocations": ["Llethr sgïo"]
+  },
+  {
+    "word": "Llety",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Lleuad",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llifo",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llinell",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llithrig",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llithro",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llo",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llogi",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llonydd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llosg",
+    "variants": [
+    ],
+    "collocations": ["Pwnc llosg"]
+  },
+  {
+    "word": "Llungopïo",
+    "variants": [
+    ],
+    "collocations": ["peiriant llungopïo"]
+  },
+  {
+    "word": "Llwch",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llwy",
+    "variants": [
+    ],
+    "collocations": ["llwy garu"]
+  },
+  {
+    "word": "Llwyaid",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llwyddiannus",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llwyddiant",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llwyddo",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llwyfan",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llwyth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llydan",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llym",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llyncu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llys",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llythyren",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Llywodraeth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Locsyn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Lôn",
+    "variants": [
+    ],
+    "collocations": ["lôn feicio","lôn feiciau"]
+  },
+  {
+    "word": "Malwen",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Mân",
+    "variants": [
+    ],
+    "collocations": ["oriau mân","mân siarad","newid mân"]
+  },
+  {
+    "word": "Man",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Manylion",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Marchnata",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Marchogaeth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Marwolaeth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Meddal",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Mefus",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Mêl",
+    "variants": [
+    ],
+    "collocations": ["mis mêl"]
+  },
+  {
+    "word": "Mellten",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Mellt",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Melysion",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Menig",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Mesur",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Metel",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Methu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Miloedd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Miwsig",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Moddion",
+    "variants": [
+      "Ffisig"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Modern",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Modrwy",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Moethus",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Mordaith",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Mudiad",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Mwd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Mwg",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Mwynhad",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Mynd",
+    "variants": [
+    ],
+    "collocations": ["mynd a dod","mynd amdani"]
+  },
+  {
+    "word": "Mynwent",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Naid",
+    "variants": [
+    ],
+    "collocations": ["Blwyddyn naid"]
+  },
+  {
+    "word": "Nant",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Naturiol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Neges",
+    "variants": [
+    ],
+    "collocations": ["Neges destun"]
+  },
+  {
+    "word": "Nerfus",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Nerth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Newid",
+    "variants": [
+      "meddwl"
+    ],
+    "collocations": ["Newid meddwl"]
+  },
+  {
+    "word": "Nifer",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Niwsans",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Nodiadau",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Nos",
+    "variants": [
+    ],
+    "collocations": ["gyda'r nos"]
+  },
+  {
+    "word": "Nwyddau",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Nyth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Oedi",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Oddi",
+    "variants": [
+    ],
+    "collocations": ["oddi wrth","oddi cartre"]
+  },
+  {
+    "word": "Oerfel",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Oes",
+    "variants": [
+      "Cyfnod",
+      "Oesoedd"
+    ],
+    "collocations": ["Oesoedd Canol","canol oes"]
+  },
+  {
+    "word": "Offer",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Offeryn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ofnus",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Olwyn",
+    "variants": [
+      "Olwynion"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Opera",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Oriawr",
+    "variants": [
+      "Wats"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Oriel",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Palu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Papur",
+    "variants": [
+    ],
+    "collocations": ["papur lapio"]
+  },
+  {
+    "word": "Papuro",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Paratoi",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Parch",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Parsel",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Patrwm",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Pecyn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Pell",
+    "variants": [
+    ],
+    "collocations": ["o bell"]
+  },
+  {
+    "word": "Pellter",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Pen",
+    "variants": [
+    ],
+    "collocations": ["pen draw"]
+  },
+  {
+    "word": "Pendant",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Pensiwn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Perffaith",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Perfformiad",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Personol",
+    "variants": [
+      "Manylion"
+    ],
+    "collocations": ["manylion personol"]
+  },
+  {
+    "word": "Personoliaeth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Perthyn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Perthynas",
+    "variants": [
+      "Perthnasau"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Perygl",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Peryglus",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Piano",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Pibell",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Pigiad",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Plaen",
+    "variants": [
+    ],
+    "collocations": ["siarad plaen","bwyd plaen"]
+  },
+  {
+    "word": "Plaid",
+    "variants": [
+    ],
+    "collocations": ["o blaid"]
+  },
+  {
+    "word": "Planhigyn",
+    "variants": [
+      "Planhigion"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Plannu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Plastig",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Plentyndod",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Pleser",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Pleserus",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Plwg",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Plygu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Pob",
+    "variants": [
+      "Bob"
+    ],
+    "collocations": ["pob dim","pob yn ail"]
+  },
+  {
+    "word": "Pobi",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Poced",
+    "variants": [
+    ],
+    "collocations": ["poced gefn"]
+  },
+  {
+    "word": "Pop",
+    "variants": [
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Pori",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Poster",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Pot",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Potel",
+    "variants": [
+    ],
+    "collocations": ["potel dŵr twym","potel dŵr poeth"]
+  },
+  {
+    "word": "Preifat",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Pren",
+    "variants": [
+      "bren"
+    ],
+    "collocations": ["llwy bren"]
+  },
+  {
+    "word": "Presgripsiwn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Pridd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Priffordd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Prin",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Priodas",
+    "variants": [
+    ],
+    "collocations": ["penblwydd priodas"]
+  },
+  {
+    "word": "Proffesiwn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Profiad",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Prydlon",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Pryfed",
+    "variants": [
+      "Clêr"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Pur",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Pŵer",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Pwyllgor",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Pwyntio",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Pwysau",
+    "variants": [
+    ],
+    "collocations": ["codi pwysau","colli pwysau","Dan bwysau"]
+  },
+  {
+    "word": "Pwyso",
+    "variants": [
+    ],
+    "collocations": ["botwm pwyso"]
+  },
+  {
+    "word": "Raced",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ras",
+    "variants": [
+    ],
+    "collocations": ["ras geffylau"]
+  },
+  {
+    "word": "Rasio",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Reidio",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Rhaff",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Rhaglen",
+    "variants": [
+    ],
+    "collocations": ["rhaglen ddogfen"]
+  },
+  {
+    "word": "Rhagorol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Rhannu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Rhaw",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Rheol",
+    "variants": [
+      "Rheolau"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Rhewllyd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Rhiant",
+    "variants": [
+      "Rhieni"
+    ],
+    "collocations": ["Rhiant maeth"]
+  },
+  {
+    "word": "Rhifo",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Rhiw",
+    "variants": [
+      "Allt",
+      "Tyle"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Rhoi",
+    "variants": [
+    ],
+    "collocations": ["Rhoi gwybod","rhoi diolch"]
+  },
+  {
+    "word": "Rhostio",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Rhuthro",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Rhwyd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Rhwystr",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Rhwystro",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Rhybudd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Rhydd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Rhyfel",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Rhyw",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Roc",
+    "variants": [
+    ],
+    "collocations": ["roc a rôl"]
+  },
+  {
+    "word": "Sach",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Safle",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Saws",
+    "variants": [
+    ],
+    "collocations": ["saws afal"]
+  },
+  {
+    "word": "Sbeis",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Sbïo",
+    "variants": [
+      "Disgwyl"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Sbort",
+    "variants": [
+    ],
+    "collocations": ["sbort a sbri"]
+  },
+  {
+    "word": "Sedd",
+    "variants": [
+    ],
+    "collocations": ["sedd gefn"]
+  },
+  {
+    "word": "Sefydliad",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Sefyllfa",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Sengl",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Seren",
+    "variants": [
+      "Sêr"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Serth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Sgìl",
+    "variants": [
+      "Sgiliau"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Sgrin",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Sgubo",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Siâp",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Siaradus",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Sibrwd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Sicr",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Sidan",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Siglo",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Silff",
+    "variants": [
+    ],
+    "collocations": ["Silff ben tân"]
+  },
+  {
+    "word": "Sioe",
+    "variants": [
+    ],
+    "collocations": ["sioe gerdd"]
+  },
+  {
+    "word": "Siswrn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Siwt",
+    "variants": [
+    ],
+    "collocations": ["siwt a thei"]
+  },
+  {
+    "word": "Smart",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Soffa",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Steil",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Storio",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Straen",
+    "variants": [
+    ],
+    "collocations": ["dan straen"]
+  },
+  {
+    "word": "Streipiog",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Stwffin",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Sur",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Swyddogol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Swynol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Sychder",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Sychedig",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Sydyn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Syllu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Sylw",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Synnwyr",
+    "variants": [
+    ],
+    "collocations": ["Gwneud synnwyr","synnwyr cyffredin"]
+  },
+  {
+    "word": "Syth",
+    "variants": [
+    ],
+    "collocations": ["syth bin"]
+  },
+  {
+    "word": "Taclus",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Taflu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Tafodiaith",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Tagfa",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Tagu",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Talcen",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Taldra",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Talentog",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Tâp",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Taran",
+    "variants": [
+      "Taranau"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Taro",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Tarten",
+    "variants": [
+    ],
+    "collocations": ["tarten afalau"]
+  },
+  {
+    "word": "Tarw",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Tasg",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Tawelwch",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Teimlad",
+    "variants": [
+      "Teimladau"
+    ],
+    "collocations": ["Dan deimlad"]
+  },
+  {
+    "word": "Tegan",
+    "variants": [
+    ],
+    "collocations": ["tegan meddal","tegan electronig","tegan pren"]
+  },
+  {
+    "word": "Teip",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Testun",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Tin",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Tir",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Tlws",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Toddi",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Top",
+    "variants": [
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Torf",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Toriad",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Torri",
+    "variants": [
+    ],
+    "collocations": ["torri calon","torri gwair"]
+  },
+  {
+    "word": "Trac",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Traddodiadol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Traethawd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Trafferth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Traffordd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Trafnidiaeth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Trafod",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Trefn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Trefnus",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Trin",
+    "variants": [
+    ],
+    "collocations": ["trin gwallt","trin claf"]
+  },
+  {
+    "word": "Triniaeth",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Triongl",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Tristwch",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Tro",
+    "variants": [
+    ],
+    "collocations": ["gwneud y tro","O dro i dro"]
+  },
+  {
+    "word": "Troed",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Troellog",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Trwchus",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Trwm",
+    "variants": [
+    ],
+    "collocations": ["trwm ei glyw","trwm ei chlyw"]
+  },
+  {
+    "word": "Trwsio",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Trydanol",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Trydar",
+    "variants": [
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Trysor",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Tsieina",
+    "variants": [
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Tun",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Twlc",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Twmpath",
+    "variants": [
+    ],
+    "collocations": ["Twmpath dawns"]
+  },
+  {
+    "word": "Twpsyn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Twristiaid",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Twymo",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Tŷ",
+    "variants": [
+    ],
+    "collocations": ["tŷ gwydr","tŷ haf"]
+  },
+  {
+    "word": "Tyle",
+    "variants": [
+      "Rhiw",
+      "Allt"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Tymer",
+    "variants": [
+    ],
+    "collocations": ["colli tymer"]
+  },
+  {
+    "word": "Tymheredd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Tynn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Tynnu",
+    "variants": [
+    ],
+    "collocations": ["tynnu coes"]
+  },
+  {
+    "word": "Tyrfa",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Tywyllwch",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Uchel",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Unigolyn",
+    "variants": [
+      "Unigolion"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Union",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Uno",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Unol",
+    "variants": [
+    ],
+    "collocations": ["Unol Daleithiau"]
+  },
+  {
+    "word": "Wats",
+    "variants": [
+      "Oriawr"
+    ],
+    "collocations": []
+  },
+  {
+    "word": "Ymateb",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ymchwil",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ymddiswyddo",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ymestyn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ymgeisio",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ymlaen",
+    "variants": [
+    ],
+    "collocations": ["ymlaen llaw","ymlaen â ni"]
+  },
+  {
+    "word": "Ymweliad",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ymwelydd",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ynni",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ysgafn",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ysgrifen",
+    "variants": [],
+    "collocations": []
+  },
+  {
+    "word": "Ysgwyd",
+    "variants": [],
+    "collocations": []
+  }
+]

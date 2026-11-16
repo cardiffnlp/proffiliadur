@@ -128,9 +128,9 @@ def readability_analysis(text):
 
     # Setting up files for readability analysis
     vocab_files = {
-        "a1": os.path.join(BASE_DIR, "data", "vocab", "a1_mynediad_geirfa_graidd.csv"),
-        "a2": os.path.join(BASE_DIR, "data", "vocab", "a2_sylfaen_geirfa_graidd.csv"),
-        "b1": os.path.join(BASE_DIR, "data", "vocab", "b1_rhestr_eirfa_graidd_lefel_canolradd.csv"),
+        "a1": os.path.join(BASE_DIR, "data", "vocab", "a1_geirfa.json"),
+        "a2": os.path.join(BASE_DIR, "data", "vocab", "a2_geirfa.json"),
+        "b1": os.path.join(BASE_DIR, "data", "vocab", "b1_geirfa.json"),
     }
     stopwords_files = {
         "cy_ataleiriau": os.path.join(BASE_DIR, "data", "stopwords", "cy_ataleiriau.txt"),

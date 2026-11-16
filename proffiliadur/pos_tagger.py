@@ -4,6 +4,7 @@ import csv
 import pandas as pd
 from collections import Counter
 import regex as re
+import json
 #from lexical_diversity import lex_div as ld
 
 """
@@ -615,6 +616,16 @@ class POSTagger:
         # else:
         #     return "K6+"
 
+    def json_to_vocab_set(self, file_path):
+        with open(file_path, encoding="utf-8") as f:
+            entries = json.load(f)
+        vocab = set()
+        for entry in entries:
+            vocab.add(entry["word"].lower())
+            vocab.update(v.lower() for v in entry.get("variants", []))
+            # collocations ignored for now
+        return vocab
+
     #--------------------
 
     #Vocab analysis - using wordforms or lemmas tokenised by Cytag
@@ -644,12 +655,12 @@ class POSTagger:
         #CEFR level:
 
         df["level"] = ""
+        lemma_lower = df["lemma"].str.lower()
         for level, file_path in vocab_files.items():
-            vocab_words = set(self.csv_to_arr(file_path))
-            for i, row in df.iterrows():
-                if row["lemma"] in vocab_words: # doesnt include wordforms so use lemma
-                    df.at[i, "level"] = level
-
+            vocab_words = self.json_to_vocab_set(file_path)
+            mask = lemma_lower.isin(vocab_words) & (df["level"] == "")
+            df.loc[mask, "level"] = level
+        print(df)
         #CorCenCC band:
 
         df["band"] = None
